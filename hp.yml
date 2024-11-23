@@ -74,21 +74,21 @@
         {
             "name": "💦 1 - VLESS - Domain - 443",
             "type": "vless",
-            "server": "g1-21n.pages.dev",
+            "server": "g2-1oy.pages.dev",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/QqJ5BYfTrPkAQCw0/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/oJAa3Ju7WZSTaEsV/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21n.PAGes.dEv",
+            "servername": "g2-1oY.PagEs.dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -101,19 +101,19 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/Go6MSADMQId9IvEm/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/q0Y4eci3UbvGNAHR/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21N.pagES.dev",
+            "servername": "g2-1oy.PagES.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -124,21 +124,21 @@
         {
             "name": "💦 3 - VLESS - IPv4 - 443",
             "type": "vless",
-            "server": "172.66.47.153",
+            "server": "172.66.47.155",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/hrVKhMWyehvKKJxg/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/r7Ie4zTwIJ5tk7lb/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21n.paGES.Dev",
+            "servername": "g2-1oY.pageS.dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -149,21 +149,21 @@
         {
             "name": "💦 4 - VLESS - IPv4 - 443",
             "type": "vless",
-            "server": "172.66.44.103",
+            "server": "172.66.44.101",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/EoNqy81cZO6WvFtS/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/gHbDnEuJpOCmzCZP/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21N.PaGeS.dEv",
+            "servername": "G2-1OY.PageS.deV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -174,21 +174,21 @@
         {
             "name": "💦 5 - VLESS - IPv6 - 443",
             "type": "vless",
-            "server": "2606:4700:310c::ac42:2c67",
+            "server": "2606:4700:310c::ac42:2f9b",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/zi9fdTn0zXlDxy3e/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/2dv1gjZJE8LUDKnM/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21N.PaGeS.DEV",
+            "servername": "G2-1oY.PaGEs.DEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -199,21 +199,21 @@
         {
             "name": "💦 6 - VLESS - IPv6 - 443",
             "type": "vless",
-            "server": "2606:4700:310c::ac42:2f99",
+            "server": "2606:4700:310c::ac42:2c65",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/yB4Jmz1Cys28UJG9/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/aYuPLJWiPL9VvUKJ/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21n.PAgES.Dev",
+            "servername": "G2-1oy.PAges.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -226,19 +226,19 @@
             "type": "vless",
             "server": "sky.rethinkdns.com",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/MECL3leXvHNMHlxe/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/u46is2RVxPl5csVW/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21N.pAgeS.DeV",
+            "servername": "g2-1OY.PaGEs.DeV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -251,19 +251,19 @@
             "type": "vless",
             "server": "fbi.gov",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/agvy5XiKHGaWTrVX/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/Riqx1aTDNCUJWiml/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21N.pAGes.DeV",
+            "servername": "G2-1OY.PAges.deV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -276,19 +276,19 @@
             "type": "vless",
             "server": "time.is",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/x87y77wdSnOPjHzy/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/mYKzXe4SxEfI9EST/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21n.paGeS.DEV",
+            "servername": "g2-1OY.PAGeS.dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -301,19 +301,19 @@
             "type": "vless",
             "server": "ipw.nscl.ir",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/pErMwIL8LH8vOfX2/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/ejQxLlCoBnKBKm2R/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21n.PagEs.DeV",
+            "servername": "g2-1oy.PaGES.dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -326,19 +326,19 @@
             "type": "vless",
             "server": "www.wto.org",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/z88QMXxDhHvoS5wQ/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/n9PTyI0vC39Qf4jW/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21n.paGES.DeV",
+            "servername": "g2-1OY.paGeS.dEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -351,19 +351,19 @@
             "type": "vless",
             "server": "ip.sb",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/rq30FJlx3heINQMh/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/RHOOFMIlEHWUhZuU/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21n.PaGEs.deV",
+            "servername": "g2-1Oy.paGes.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -376,19 +376,19 @@
             "type": "vless",
             "server": "zula.ir",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/kUXcX3Q2ihDkD3WT/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/vEBdY7hwlLATnY0O/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21n.Pages.dEv",
+            "servername": "G2-1oY.paGES.dEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -401,19 +401,19 @@
             "type": "vless",
             "server": "creativecommons.org",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/fHSa0yc8kdttsMgy/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/wKRShju4zIi5MwEH/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21n.PAgES.DeV",
+            "servername": "G2-1oY.PAgES.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -426,19 +426,19 @@
             "type": "vless",
             "server": "go.inmobi.com",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/74sa7hkf5P46DqMu/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/yU4DSxgikrZMx7Sy/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21N.pAGES.dEv",
+            "servername": "G2-1OY.PAgEs.deV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -451,19 +451,19 @@
             "type": "vless",
             "server": "cdnjs.com",
             "port": 443,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/TPSfLVo4LoAyNiLP/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/9vRx0CXvXMi0rGLO/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21N.paGes.DEV",
+            "servername": "G2-1oY.paGEs.DeV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -474,21 +474,21 @@
         {
             "name": "💦 17 - VLESS - Domain - 2053",
             "type": "vless",
-            "server": "g1-21n.pages.dev",
+            "server": "g2-1oy.pages.dev",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/vA8Wc914ShuBKuIM/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/AKR1sd1LIpfIMUam/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21n.PAges.dev",
+            "servername": "G2-1OY.paGeS.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -501,19 +501,19 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/xXdC5Cz6FlXR5Ag4/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/h1h3bW11H6oYvUCz/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21n.pAgEs.Dev",
+            "servername": "G2-1oY.PAges.dEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -524,21 +524,21 @@
         {
             "name": "💦 19 - VLESS - IPv4 - 2053",
             "type": "vless",
-            "server": "172.66.47.153",
+            "server": "172.66.47.155",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/JN2CmjjPwuJL05In/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/oSPIRHYNgexxJqhB/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21n.paGes.deV",
+            "servername": "g2-1OY.pAges.DEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -549,21 +549,21 @@
         {
             "name": "💦 20 - VLESS - IPv4 - 2053",
             "type": "vless",
-            "server": "172.66.44.103",
+            "server": "172.66.44.101",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/IbcdlzJJpQZD1wRr/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/S94zZC6A31n5ejRr/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21n.PAGes.DEv",
+            "servername": "G2-1Oy.pageS.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -574,21 +574,21 @@
         {
             "name": "💦 21 - VLESS - IPv6 - 2053",
             "type": "vless",
-            "server": "2606:4700:310c::ac42:2c67",
+            "server": "2606:4700:310c::ac42:2f9b",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/9gLgSJLOSZo68L7v/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/kqsUQc9VF3qbkZUO/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21n.pAGEs.dEV",
+            "servername": "g2-1Oy.paGEs.DeV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -599,21 +599,21 @@
         {
             "name": "💦 22 - VLESS - IPv6 - 2053",
             "type": "vless",
-            "server": "2606:4700:310c::ac42:2f99",
+            "server": "2606:4700:310c::ac42:2c65",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/TLojZ12M3HUGZiOF/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/KYmzROauQdSD6yul/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21N.pAgES.Dev",
+            "servername": "g2-1oy.Pages.DeV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -626,19 +626,19 @@
             "type": "vless",
             "server": "sky.rethinkdns.com",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/gozZ6WJKmcFB0LEt/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/g6WpRLyxmrsXoqXd/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21N.PAgeS.dev",
+            "servername": "g2-1oy.pages.dEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -651,19 +651,19 @@
             "type": "vless",
             "server": "fbi.gov",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/t9vsdJsOyDEqbuqt/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/zORhoRMGIQpzg9rI/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21N.pages.DEv",
+            "servername": "G2-1oy.pAGES.dEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -676,19 +676,19 @@
             "type": "vless",
             "server": "time.is",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/d7LqKS5omSmDbDYJ/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/Y8xyI5JC5DtYU141/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21n.pAGeS.dEV",
+            "servername": "G2-1Oy.pAGES.Dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -701,19 +701,19 @@
             "type": "vless",
             "server": "ipw.nscl.ir",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/RcWxWfR3nE5ZZb9r/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/HGDdkFN8Xmi3EhJr/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21N.pAgEs.DeV",
+            "servername": "G2-1OY.PaGes.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -726,19 +726,19 @@
             "type": "vless",
             "server": "www.wto.org",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/hazzzfSNquk0fqdJ/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/X0b6YS1ELZ5uiWLx/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21n.PAgEs.DeV",
+            "servername": "G2-1oy.pAGES.deV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -751,19 +751,19 @@
             "type": "vless",
             "server": "ip.sb",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/6qmsAw6j72x8nbhN/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/U3v0zGWUCmRiS567/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21N.paGeS.dEv",
+            "servername": "G2-1oY.Pages.DEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -776,19 +776,19 @@
             "type": "vless",
             "server": "zula.ir",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/ZQcsYAbWumTR5gbH/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/UoCHjO75FxblrBGt/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21N.PaGEs.deV",
+            "servername": "g2-1oY.paGeS.Dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -801,19 +801,19 @@
             "type": "vless",
             "server": "creativecommons.org",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/BR11nYhVFCX0XXg3/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/65mKuM7kyP5xE4uW/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21N.PAges.dEv",
+            "servername": "g2-1oY.PAges.dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -826,19 +826,19 @@
             "type": "vless",
             "server": "go.inmobi.com",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/pycQDZHiBVzY58mZ/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/vzP4X9U9BdlCvLrd/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "G1-21n.pages.DeV",
+            "servername": "g2-1Oy.PAges.dEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -851,19 +851,19 @@
             "type": "vless",
             "server": "cdnjs.com",
             "port": 2053,
-            "uuid": "6466c6c1-48ae-4058-a876-4701bc752596",
+            "uuid": "dda465f1-3a34-4627-b213-38c67af42d51",
             "tls": true,
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/Njgmgb2XkbA5PdBr/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/i7AMdlD5hiPpXqba/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "servername": "g1-21N.paGEs.DeV",
+            "servername": "G2-1Oy.PaGes.deV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -874,20 +874,20 @@
         {
             "name": "💦 1 - Trojan - Domain - 443",
             "type": "trojan",
-            "server": "g1-21n.pages.dev",
+            "server": "g2-1oy.pages.dev",
             "port": 443,
             "password": "bpb-trojan",
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trk0LDD1zVYM5Z2I5Y/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trCNWaNO7NsZqyF2bc/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21n.pageS.DEV",
+            "sni": "g2-1OY.PAGeS.Dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -904,14 +904,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trNRR0fx9dOQQIZzfx/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/tr0zzbVycSONVxbDuZ/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21n.paGeS.DeV",
+            "sni": "g2-1OY.PAges.Dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -922,20 +922,20 @@
         {
             "name": "💦 3 - Trojan - IPv4 - 443",
             "type": "trojan",
-            "server": "172.66.47.153",
+            "server": "172.66.47.155",
             "port": 443,
             "password": "bpb-trojan",
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/tr5vJeagdCzU6rRe99/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trfoS2jJ5cZ4stWQTk/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21N.PaGeS.DEV",
+            "sni": "G2-1Oy.paGeS.dEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -946,20 +946,20 @@
         {
             "name": "💦 4 - Trojan - IPv4 - 443",
             "type": "trojan",
-            "server": "172.66.44.103",
+            "server": "172.66.44.101",
             "port": 443,
             "password": "bpb-trojan",
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trm1yk6EZnKLU3PAhM/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trBYDMmh8lPDG0TYkx/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21N.paGES.DeV",
+            "sni": "g2-1Oy.PAgEs.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -970,20 +970,20 @@
         {
             "name": "💦 5 - Trojan - IPv6 - 443",
             "type": "trojan",
-            "server": "2606:4700:310c::ac42:2c67",
+            "server": "2606:4700:310c::ac42:2f9b",
             "port": 443,
             "password": "bpb-trojan",
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/tr2Q1NAW5kQiYgxey9/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/tr0OCi1xXb0wyByjFV/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21N.pAGes.dEV",
+            "sni": "g2-1Oy.PageS.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -994,20 +994,20 @@
         {
             "name": "💦 6 - Trojan - IPv6 - 443",
             "type": "trojan",
-            "server": "2606:4700:310c::ac42:2f99",
+            "server": "2606:4700:310c::ac42:2c65",
             "port": 443,
             "password": "bpb-trojan",
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/tr1avV9wlS4jp442X2/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trPCsQBYalXY7vYfqD/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21N.pagES.dEv",
+            "sni": "G2-1oy.PaGEs.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1024,14 +1024,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trOfCrzMc7M2s2P6xB/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trUdys2Ra1gV8LE3rx/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21n.pAgES.dEv",
+            "sni": "g2-1Oy.paGes.dEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1048,14 +1048,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trVQibkWk0vFIuq15W/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trTraRahI9VgxOONp1/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21n.paGEs.DEV",
+            "sni": "G2-1oy.PAges.dEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1072,14 +1072,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trlapSCRJgWzEtvV1H/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trnoubkAP5cCUIdgOZ/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21N.PagES.DEV",
+            "sni": "g2-1Oy.PAGes.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1096,14 +1096,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trq8Aa7TgY5ICNMReU/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trrtomz5s4wujo1Cu3/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21n.pages.DEv",
+            "sni": "G2-1Oy.paGES.dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1120,14 +1120,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trNmBM63E3KPi6oc6D/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/triN2hdVYql6lVJx2r/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21n.pAgEs.deV",
+            "sni": "G2-1oy.PAGES.dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1144,14 +1144,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trUAFZTFPDSIRKENsH/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trCM2ZhCzQQhztmbsc/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21n.Pages.dEV",
+            "sni": "G2-1Oy.PagEs.DeV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1168,14 +1168,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/tr9JLzWrFtO2ruDv5T/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/tr9rHW0Mio2sdBVI9l/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21N.PAgES.dev",
+            "sni": "G2-1oy.pAgEs.DEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1192,14 +1192,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trk2Hgnp9aWWquyZ56/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trOR948mQnXgp2m6zv/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21n.pAGEs.DeV",
+            "sni": "G2-1oy.pAgES.deV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1216,14 +1216,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trcwRdbS2ieuzSCzLS/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trEVY3Nmnf7o6Jorcw/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21n.pagEs.dEV",
+            "sni": "G2-1oy.pAges.dEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1240,14 +1240,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trjQfAfFYAys5mMW98/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trd0ZdGVThiZx27Y2Z/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21n.pAges.DEV",
+            "sni": "G2-1Oy.PaGes.DeV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1258,20 +1258,20 @@
         {
             "name": "💦 17 - Trojan - Domain - 2053",
             "type": "trojan",
-            "server": "g1-21n.pages.dev",
+            "server": "g2-1oy.pages.dev",
             "port": 2053,
             "password": "bpb-trojan",
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trn274s8bZADc9K9ec/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/tr4YWZIChC1cHS3f7I/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21N.PaGes.DEv",
+            "sni": "G2-1oy.Pages.DEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1288,14 +1288,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trqNIEW0VXG5Xw56Kq/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trlJJcks7ohl7nABzW/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21N.pagEs.DeV",
+            "sni": "G2-1OY.paGes.DeV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1306,20 +1306,20 @@
         {
             "name": "💦 19 - Trojan - IPv4 - 2053",
             "type": "trojan",
-            "server": "172.66.47.153",
+            "server": "172.66.47.155",
             "port": 2053,
             "password": "bpb-trojan",
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trXsizXvZQ8nAizKC7/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trRrndEvjjgzE39we7/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21N.Pages.dEv",
+            "sni": "G2-1Oy.PAGeS.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1330,20 +1330,20 @@
         {
             "name": "💦 20 - Trojan - IPv4 - 2053",
             "type": "trojan",
-            "server": "172.66.44.103",
+            "server": "172.66.44.101",
             "port": 2053,
             "password": "bpb-trojan",
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trqlbsYgiJqiBEe1gF/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/tra3ho6Wzeh9PRFEpZ/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21N.PAGEs.dEV",
+            "sni": "g2-1OY.PAges.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1354,20 +1354,20 @@
         {
             "name": "💦 21 - Trojan - IPv6 - 2053",
             "type": "trojan",
-            "server": "2606:4700:310c::ac42:2c67",
+            "server": "2606:4700:310c::ac42:2f9b",
             "port": 2053,
             "password": "bpb-trojan",
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trfzsfKgk9WqW1xmn2/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trIRThzvUWncgMkpiJ/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21n.paGES.Dev",
+            "sni": "G2-1oY.PaGeS.DEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1378,20 +1378,20 @@
         {
             "name": "💦 22 - Trojan - IPv6 - 2053",
             "type": "trojan",
-            "server": "2606:4700:310c::ac42:2f99",
+            "server": "2606:4700:310c::ac42:2c65",
             "port": 2053,
             "password": "bpb-trojan",
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trNIlPktWF2JxiP75l/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trXQwQjKMhM7inx6QG/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21n.pAgeS.DEV",
+            "sni": "G2-1oY.pageS.dEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1408,14 +1408,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/tr2B1nUBdbTzwEra48/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/tr9pjWfE3WySRb8Wb3/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21N.PAGES.DEV",
+            "sni": "g2-1oY.PAGeS.DeV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1432,14 +1432,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trWplTIqiAXhShJbnj/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trRrjggJoSp5hdI83v/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21N.pageS.dEV",
+            "sni": "g2-1oy.PaGES.dEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1456,14 +1456,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trC8aFbWML5EtFHd9d/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trkp9ZcRWkIoOCaI87/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21n.PAGEs.deV",
+            "sni": "g2-1oy.pageS.DEv",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1480,14 +1480,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trscvZO3VhWPjhEqNm/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trprvzM6CTJqvxs6PT/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21N.pAGes.dEV",
+            "sni": "G2-1oy.PaGeS.DeV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1504,14 +1504,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/tr5AL3hPYQDiuMQUt3/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/tr03Zz0po6asJaXJUa/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21N.PAGeS.dEv",
+            "sni": "G2-1oy.pAGES.DEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1528,14 +1528,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trlicJLzkNw6tGIf57/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trDcMEnv7FKlWW8N3v/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21N.pAGeS.DEv",
+            "sni": "G2-1OY.PagES.dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1552,14 +1552,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trzmnvInJqLxCN3C74/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/tr6VmbqWJOlmm2d0yI/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "G1-21N.paGES.dev",
+            "sni": "G2-1oY.PagEs.Dev",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1576,14 +1576,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trPUB1VWoNkuBePJof/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trG7jrGFiTCgvaoZVG/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21n.PAGes.DEV",
+            "sni": "G2-1Oy.PAGES.deV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1600,14 +1600,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/trk65r1xJfwrUbtFzz/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trKAnAmkqHJhSMZp0c/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21N.Pages.dEv",
+            "sni": "G2-1oy.pAgEs.dEV",
             "alpn": [
                 "h2",
                 "http/1.1"
@@ -1624,14 +1624,14 @@
             "network": "ws",
             "udp": false,
             "ws-opts": {
-                "path": "/troQiecA38Sft7uwaa/ZGUucmFkaWNhbGx5LnBybw==",
+                "path": "/trAPl9qX0kTUksS72L/ZGUucmFkaWNhbGx5LnBybw==",
                 "headers": {
-                    "host": "g1-21n.pages.dev"
+                    "host": "g2-1oy.pages.dev"
                 },
                 "max-early-data": 2560,
                 "early-data-header-name": "Sec-WebSocket-Protocol"
             },
-            "sni": "g1-21N.paGeS.dEv",
+            "sni": "g2-1oY.pagES.DeV",
             "alpn": [
                 "h2",
                 "http/1.1"
